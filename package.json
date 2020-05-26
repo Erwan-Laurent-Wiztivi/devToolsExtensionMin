@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node bin/build.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^7.0.1",
+    "zip-folder": "^1.0.0"
+  }
+}

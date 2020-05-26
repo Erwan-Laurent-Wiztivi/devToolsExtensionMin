@@ -1,0 +1,10 @@
+node_modules/
+
+.idea/
+
+dist/
+
+# chrome extension builds & permission files
+*.zip
+*.pem
+

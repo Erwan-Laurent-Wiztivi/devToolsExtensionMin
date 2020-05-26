@@ -1,0 +1,17 @@
+{
+  "name": "Poc Panel",
+  "short_name": "Poc",
+  "description": "Poc to higlight an issue with panels",
+  "icons": {
+    "16": "assets/icon.png",
+    "128": "assets/icon.png"
+  },
+  "version": "1.0",
+  "manifest_version" : 2,
+  "minimum_chrome_version": "10.0",
+  "devtools_page": "scripts/devTools.html",
+  "options_page": "settings/settings.html",
+  "permissions": [
+    "<all_urls>"
+  ]
+}
